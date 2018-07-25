@@ -1,0 +1,557 @@
+ data gathered for city #1 saint george from http://api.openweathermap.org/data/2.5/weather?q=saint george&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #2 bluff from http://api.openweathermap.org/data/2.5/weather?q=bluff&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #3 cayenne from http://api.openweathermap.org/data/2.5/weather?q=cayenne&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #4 new norfolk from http://api.openweathermap.org/data/2.5/weather?q=new norfolk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #5 hithadhoo from http://api.openweathermap.org/data/2.5/weather?q=hithadhoo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #6 butaritari from http://api.openweathermap.org/data/2.5/weather?q=butaritari&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #7 margate from http://api.openweathermap.org/data/2.5/weather?q=margate&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #8 arraial do cabo from http://api.openweathermap.org/data/2.5/weather?q=arraial do cabo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #9 hermanus from http://api.openweathermap.org/data/2.5/weather?q=hermanus&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #10 santa cruz from http://api.openweathermap.org/data/2.5/weather?q=santa cruz&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #11 atuona from http://api.openweathermap.org/data/2.5/weather?q=atuona&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #12 busselton from http://api.openweathermap.org/data/2.5/weather?q=busselton&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #13 albany from http://api.openweathermap.org/data/2.5/weather?q=albany&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #14 mataura from http://api.openweathermap.org/data/2.5/weather?q=mataura&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #15 nishihara from http://api.openweathermap.org/data/2.5/weather?q=nishihara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #16 lebu from http://api.openweathermap.org/data/2.5/weather?q=lebu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #17 bundaberg from http://api.openweathermap.org/data/2.5/weather?q=bundaberg&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #18 punta arenas from http://api.openweathermap.org/data/2.5/weather?q=punta arenas&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #19 hailar from http://api.openweathermap.org/data/2.5/weather?q=hailar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #21 kidal from http://api.openweathermap.org/data/2.5/weather?q=kidal&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #22 bambous virieux from http://api.openweathermap.org/data/2.5/weather?q=bambous virieux&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #23 codrington from http://api.openweathermap.org/data/2.5/weather?q=codrington&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #24 lumphat from http://api.openweathermap.org/data/2.5/weather?q=lumphat&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #25 shelkovskaya from http://api.openweathermap.org/data/2.5/weather?q=shelkovskaya&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #26 port alfred from http://api.openweathermap.org/data/2.5/weather?q=port alfred&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #27 saldanha from http://api.openweathermap.org/data/2.5/weather?q=saldanha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #28 rikitea from http://api.openweathermap.org/data/2.5/weather?q=rikitea&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #29 bredasdorp from http://api.openweathermap.org/data/2.5/weather?q=bredasdorp&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #30 zeya from http://api.openweathermap.org/data/2.5/weather?q=zeya&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #31 tuktoyaktuk from http://api.openweathermap.org/data/2.5/weather?q=tuktoyaktuk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #32 barrow from http://api.openweathermap.org/data/2.5/weather?q=barrow&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #34 ponta do sol from http://api.openweathermap.org/data/2.5/weather?q=ponta do sol&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #35 jamestown from http://api.openweathermap.org/data/2.5/weather?q=jamestown&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #36 yellowknife from http://api.openweathermap.org/data/2.5/weather?q=yellowknife&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #37 torbay from http://api.openweathermap.org/data/2.5/weather?q=torbay&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #38 buala from http://api.openweathermap.org/data/2.5/weather?q=buala&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #39 veraval from http://api.openweathermap.org/data/2.5/weather?q=veraval&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #40 sfantu gheorghe from http://api.openweathermap.org/data/2.5/weather?q=sfantu gheorghe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #41 codajas from http://api.openweathermap.org/data/2.5/weather?q=codajas&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #42 port hardy from http://api.openweathermap.org/data/2.5/weather?q=port hardy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #43 havre-saint-pierre from http://api.openweathermap.org/data/2.5/weather?q=havre-saint-pierre&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #44 pringsewu from http://api.openweathermap.org/data/2.5/weather?q=pringsewu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #45 hilo from http://api.openweathermap.org/data/2.5/weather?q=hilo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #46 novaya ladoga from http://api.openweathermap.org/data/2.5/weather?q=novaya ladoga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #47 faanui from http://api.openweathermap.org/data/2.5/weather?q=faanui&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #48 hammerfest from http://api.openweathermap.org/data/2.5/weather?q=hammerfest&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #49 balakhta from http://api.openweathermap.org/data/2.5/weather?q=balakhta&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #50 puerto ayora from http://api.openweathermap.org/data/2.5/weather?q=puerto ayora&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #51 vaini from http://api.openweathermap.org/data/2.5/weather?q=vaini&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #52 marawi from http://api.openweathermap.org/data/2.5/weather?q=marawi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #53 nikolskoye from http://api.openweathermap.org/data/2.5/weather?q=nikolskoye&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #54 kavieng from http://api.openweathermap.org/data/2.5/weather?q=kavieng&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #55 srednekolymsk from http://api.openweathermap.org/data/2.5/weather?q=srednekolymsk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #56 pouebo from http://api.openweathermap.org/data/2.5/weather?q=pouebo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #57 suntar from http://api.openweathermap.org/data/2.5/weather?q=suntar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #58 la asuncion from http://api.openweathermap.org/data/2.5/weather?q=la asuncion&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #59 souillac from http://api.openweathermap.org/data/2.5/weather?q=souillac&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #60 abu dhabi from http://api.openweathermap.org/data/2.5/weather?q=abu dhabi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #61 coihaique from http://api.openweathermap.org/data/2.5/weather?q=coihaique&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #62 puerto escondido from http://api.openweathermap.org/data/2.5/weather?q=puerto escondido&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #63 matara from http://api.openweathermap.org/data/2.5/weather?q=matara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #64 bireun from http://api.openweathermap.org/data/2.5/weather?q=bireun&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #65 padang from http://api.openweathermap.org/data/2.5/weather?q=padang&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #67 vallenar from http://api.openweathermap.org/data/2.5/weather?q=vallenar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #68 meadow lake from http://api.openweathermap.org/data/2.5/weather?q=meadow lake&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #69 khatanga from http://api.openweathermap.org/data/2.5/weather?q=khatanga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #71 acapulco from http://api.openweathermap.org/data/2.5/weather?q=acapulco&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #72 bathsheba from http://api.openweathermap.org/data/2.5/weather?q=bathsheba&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #73 hofn from http://api.openweathermap.org/data/2.5/weather?q=hofn&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #74 ati from http://api.openweathermap.org/data/2.5/weather?q=ati&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #76 rincon from http://api.openweathermap.org/data/2.5/weather?q=rincon&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #77 castro from http://api.openweathermap.org/data/2.5/weather?q=castro&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #78 ancud from http://api.openweathermap.org/data/2.5/weather?q=ancud&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #79 hervey bay from http://api.openweathermap.org/data/2.5/weather?q=hervey bay&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #80 amapa from http://api.openweathermap.org/data/2.5/weather?q=amapa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #81 cockburn town from http://api.openweathermap.org/data/2.5/weather?q=cockburn town&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #82 kupang from http://api.openweathermap.org/data/2.5/weather?q=kupang&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #83 fortuna from http://api.openweathermap.org/data/2.5/weather?q=fortuna&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #84 vinh long from http://api.openweathermap.org/data/2.5/weather?q=vinh long&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #85 bonavista from http://api.openweathermap.org/data/2.5/weather?q=bonavista&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #86 lata from http://api.openweathermap.org/data/2.5/weather?q=lata&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #88 laguna from http://api.openweathermap.org/data/2.5/weather?q=laguna&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #89 iqaluit from http://api.openweathermap.org/data/2.5/weather?q=iqaluit&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #90 rawson from http://api.openweathermap.org/data/2.5/weather?q=rawson&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #91 luderitz from http://api.openweathermap.org/data/2.5/weather?q=luderitz&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #92 hobart from http://api.openweathermap.org/data/2.5/weather?q=hobart&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #93 kapaa from http://api.openweathermap.org/data/2.5/weather?q=kapaa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #95 norman wells from http://api.openweathermap.org/data/2.5/weather?q=norman wells&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #96 seoul from http://api.openweathermap.org/data/2.5/weather?q=seoul&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #97 ushuaia from http://api.openweathermap.org/data/2.5/weather?q=ushuaia&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #98 manta from http://api.openweathermap.org/data/2.5/weather?q=manta&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #99 carnarvon from http://api.openweathermap.org/data/2.5/weather?q=carnarvon&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #100 ozoir-la-ferriere from http://api.openweathermap.org/data/2.5/weather?q=ozoir-la-ferriere&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #101 mariestad from http://api.openweathermap.org/data/2.5/weather?q=mariestad&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #102 qandala from http://api.openweathermap.org/data/2.5/weather?q=qandala&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #105 port keats from http://api.openweathermap.org/data/2.5/weather?q=port keats&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #106 vila velha from http://api.openweathermap.org/data/2.5/weather?q=vila velha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #107 mar del plata from http://api.openweathermap.org/data/2.5/weather?q=mar del plata&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #108 ponorogo from http://api.openweathermap.org/data/2.5/weather?q=ponorogo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #109 cordoba from http://api.openweathermap.org/data/2.5/weather?q=cordoba&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #110 geraldton from http://api.openweathermap.org/data/2.5/weather?q=geraldton&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #111 severo-kurilsk from http://api.openweathermap.org/data/2.5/weather?q=severo-kurilsk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #112 flinders from http://api.openweathermap.org/data/2.5/weather?q=flinders&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #113 avarua from http://api.openweathermap.org/data/2.5/weather?q=avarua&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #115 tasiilaq from http://api.openweathermap.org/data/2.5/weather?q=tasiilaq&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #116 chokurdakh from http://api.openweathermap.org/data/2.5/weather?q=chokurdakh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #117 carutapera from http://api.openweathermap.org/data/2.5/weather?q=carutapera&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #118 nanortalik from http://api.openweathermap.org/data/2.5/weather?q=nanortalik&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #119 aklavik from http://api.openweathermap.org/data/2.5/weather?q=aklavik&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #120 debre birhan from http://api.openweathermap.org/data/2.5/weather?q=debre birhan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #121 thompson from http://api.openweathermap.org/data/2.5/weather?q=thompson&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #122 cherskiy from http://api.openweathermap.org/data/2.5/weather?q=cherskiy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #123 georgetown from http://api.openweathermap.org/data/2.5/weather?q=georgetown&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #124 bethel from http://api.openweathermap.org/data/2.5/weather?q=bethel&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #125 tateyama from http://api.openweathermap.org/data/2.5/weather?q=tateyama&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #126 sao filipe from http://api.openweathermap.org/data/2.5/weather?q=sao filipe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #127 erenhot from http://api.openweathermap.org/data/2.5/weather?q=erenhot&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #128 cape town from http://api.openweathermap.org/data/2.5/weather?q=cape town&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #130 mountrath from http://api.openweathermap.org/data/2.5/weather?q=mountrath&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #131 les cayes from http://api.openweathermap.org/data/2.5/weather?q=les cayes&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #132 coruripe from http://api.openweathermap.org/data/2.5/weather?q=coruripe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #133 kassala from http://api.openweathermap.org/data/2.5/weather?q=kassala&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #134 sao joao da barra from http://api.openweathermap.org/data/2.5/weather?q=sao joao da barra&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #135 ilulissat from http://api.openweathermap.org/data/2.5/weather?q=ilulissat&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #136 eskisehir from http://api.openweathermap.org/data/2.5/weather?q=eskisehir&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #137 san patricio from http://api.openweathermap.org/data/2.5/weather?q=san patricio&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #138 hun from http://api.openweathermap.org/data/2.5/weather?q=hun&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #139 waddan from http://api.openweathermap.org/data/2.5/weather?q=waddan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #140 hasaki from http://api.openweathermap.org/data/2.5/weather?q=hasaki&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #141 ushtobe from http://api.openweathermap.org/data/2.5/weather?q=ushtobe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #142 xinxiang from http://api.openweathermap.org/data/2.5/weather?q=xinxiang&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #143 moron from http://api.openweathermap.org/data/2.5/weather?q=moron&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #144 chuy from http://api.openweathermap.org/data/2.5/weather?q=chuy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #145 jiuquan from http://api.openweathermap.org/data/2.5/weather?q=jiuquan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #146 sisimiut from http://api.openweathermap.org/data/2.5/weather?q=sisimiut&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #147 port elizabeth from http://api.openweathermap.org/data/2.5/weather?q=port elizabeth&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #148 provideniya from http://api.openweathermap.org/data/2.5/weather?q=provideniya&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #149 upernavik from http://api.openweathermap.org/data/2.5/weather?q=upernavik&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #150 lloydminster from http://api.openweathermap.org/data/2.5/weather?q=lloydminster&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #151 te anau from http://api.openweathermap.org/data/2.5/weather?q=te anau&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #152 jutai from http://api.openweathermap.org/data/2.5/weather?q=jutai&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #153 kununurra from http://api.openweathermap.org/data/2.5/weather?q=kununurra&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #154 lubyany from http://api.openweathermap.org/data/2.5/weather?q=lubyany&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #158 boguchany from http://api.openweathermap.org/data/2.5/weather?q=boguchany&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #159 tazovskiy from http://api.openweathermap.org/data/2.5/weather?q=tazovskiy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #160 aparecida do taboado from http://api.openweathermap.org/data/2.5/weather?q=aparecida do taboado&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #161 dongsheng from http://api.openweathermap.org/data/2.5/weather?q=dongsheng&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #162 ketchikan from http://api.openweathermap.org/data/2.5/weather?q=ketchikan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #163 abasolo from http://api.openweathermap.org/data/2.5/weather?q=abasolo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #164 victoria from http://api.openweathermap.org/data/2.5/weather?q=victoria&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #165 voh from http://api.openweathermap.org/data/2.5/weather?q=voh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #166 port augusta from http://api.openweathermap.org/data/2.5/weather?q=port augusta&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #167 sayat from http://api.openweathermap.org/data/2.5/weather?q=sayat&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #168 pangnirtung from http://api.openweathermap.org/data/2.5/weather?q=pangnirtung&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #169 tiksi from http://api.openweathermap.org/data/2.5/weather?q=tiksi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #170 saint-philippe from http://api.openweathermap.org/data/2.5/weather?q=saint-philippe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #171 ribeira grande from http://api.openweathermap.org/data/2.5/weather?q=ribeira grande&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #172 moose factory from http://api.openweathermap.org/data/2.5/weather?q=moose factory&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #173 revelstoke from http://api.openweathermap.org/data/2.5/weather?q=revelstoke&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #174 linhares from http://api.openweathermap.org/data/2.5/weather?q=linhares&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #175 minnedosa from http://api.openweathermap.org/data/2.5/weather?q=minnedosa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #176 novopokrovka from http://api.openweathermap.org/data/2.5/weather?q=novopokrovka&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #177 selma from http://api.openweathermap.org/data/2.5/weather?q=selma&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #178 fatick from http://api.openweathermap.org/data/2.5/weather?q=fatick&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #179 beringovskiy from http://api.openweathermap.org/data/2.5/weather?q=beringovskiy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #180 lompoc from http://api.openweathermap.org/data/2.5/weather?q=lompoc&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #181 longyearbyen from http://api.openweathermap.org/data/2.5/weather?q=longyearbyen&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #182 kirakira from http://api.openweathermap.org/data/2.5/weather?q=kirakira&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #183 qaanaaq from http://api.openweathermap.org/data/2.5/weather?q=qaanaaq&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #184 huilong from http://api.openweathermap.org/data/2.5/weather?q=huilong&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #185 pimentel from http://api.openweathermap.org/data/2.5/weather?q=pimentel&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #186 iquitos from http://api.openweathermap.org/data/2.5/weather?q=iquitos&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #187 saskylakh from http://api.openweathermap.org/data/2.5/weather?q=saskylakh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #191 mana from http://api.openweathermap.org/data/2.5/weather?q=mana&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #192 raudeberg from http://api.openweathermap.org/data/2.5/weather?q=raudeberg&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #196 guerrero negro from http://api.openweathermap.org/data/2.5/weather?q=guerrero negro&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #197 vung tau from http://api.openweathermap.org/data/2.5/weather?q=vung tau&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #198 menongue from http://api.openweathermap.org/data/2.5/weather?q=menongue&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #199 bongandanga from http://api.openweathermap.org/data/2.5/weather?q=bongandanga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #200 arlit from http://api.openweathermap.org/data/2.5/weather?q=arlit&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #201 lagoa from http://api.openweathermap.org/data/2.5/weather?q=lagoa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #202 gat from http://api.openweathermap.org/data/2.5/weather?q=gat&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #203 inhambane from http://api.openweathermap.org/data/2.5/weather?q=inhambane&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #204 saint-pierre from http://api.openweathermap.org/data/2.5/weather?q=saint-pierre&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #205 lander from http://api.openweathermap.org/data/2.5/weather?q=lander&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #206 deer lake from http://api.openweathermap.org/data/2.5/weather?q=deer lake&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #207 kysyl-syr from http://api.openweathermap.org/data/2.5/weather?q=kysyl-syr&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #208 dasoguz from http://api.openweathermap.org/data/2.5/weather?q=dasoguz&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #209 portland from http://api.openweathermap.org/data/2.5/weather?q=portland&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #210 cardston from http://api.openweathermap.org/data/2.5/weather?q=cardston&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #211 lerwick from http://api.openweathermap.org/data/2.5/weather?q=lerwick&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #213 dikson from http://api.openweathermap.org/data/2.5/weather?q=dikson&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #214 port hedland from http://api.openweathermap.org/data/2.5/weather?q=port hedland&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #215 pevek from http://api.openweathermap.org/data/2.5/weather?q=pevek&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #216 katsuura from http://api.openweathermap.org/data/2.5/weather?q=katsuura&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #217 ixtapa from http://api.openweathermap.org/data/2.5/weather?q=ixtapa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #218 pangai from http://api.openweathermap.org/data/2.5/weather?q=pangai&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #219 maragogi from http://api.openweathermap.org/data/2.5/weather?q=maragogi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #220 alta floresta from http://api.openweathermap.org/data/2.5/weather?q=alta floresta&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #221 leo from http://api.openweathermap.org/data/2.5/weather?q=leo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #222 pochutla from http://api.openweathermap.org/data/2.5/weather?q=pochutla&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #223 kholm from http://api.openweathermap.org/data/2.5/weather?q=kholm&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #224 salinas from http://api.openweathermap.org/data/2.5/weather?q=salinas&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #225 durango from http://api.openweathermap.org/data/2.5/weather?q=durango&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #226 kaduqli from http://api.openweathermap.org/data/2.5/weather?q=kaduqli&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #227 mahebourg from http://api.openweathermap.org/data/2.5/weather?q=mahebourg&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #228 inta from http://api.openweathermap.org/data/2.5/weather?q=inta&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #229 meulaboh from http://api.openweathermap.org/data/2.5/weather?q=meulaboh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #230 athabasca from http://api.openweathermap.org/data/2.5/weather?q=athabasca&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #231 tondano from http://api.openweathermap.org/data/2.5/weather?q=tondano&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #232 cidreira from http://api.openweathermap.org/data/2.5/weather?q=cidreira&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #233 husavik from http://api.openweathermap.org/data/2.5/weather?q=husavik&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #234 saint-raymond from http://api.openweathermap.org/data/2.5/weather?q=saint-raymond&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #235 visnes from http://api.openweathermap.org/data/2.5/weather?q=visnes&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #236 mahina from http://api.openweathermap.org/data/2.5/weather?q=mahina&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #237 adrar from http://api.openweathermap.org/data/2.5/weather?q=adrar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #238 nemuro from http://api.openweathermap.org/data/2.5/weather?q=nemuro&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #239 khani from http://api.openweathermap.org/data/2.5/weather?q=khani&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #240 rocha from http://api.openweathermap.org/data/2.5/weather?q=rocha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #241 olga from http://api.openweathermap.org/data/2.5/weather?q=olga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #242 touros from http://api.openweathermap.org/data/2.5/weather?q=touros&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #243 rantauprapat from http://api.openweathermap.org/data/2.5/weather?q=rantauprapat&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #244 yumen from http://api.openweathermap.org/data/2.5/weather?q=yumen&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #246 kindu from http://api.openweathermap.org/data/2.5/weather?q=kindu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #247 mangan from http://api.openweathermap.org/data/2.5/weather?q=mangan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #248 luwingu from http://api.openweathermap.org/data/2.5/weather?q=luwingu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #249 avera from http://api.openweathermap.org/data/2.5/weather?q=avera&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #250 saint-louis from http://api.openweathermap.org/data/2.5/weather?q=saint-louis&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #251 bay roberts from http://api.openweathermap.org/data/2.5/weather?q=bay roberts&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #253 porto novo from http://api.openweathermap.org/data/2.5/weather?q=porto novo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #254 mamallapuram from http://api.openweathermap.org/data/2.5/weather?q=mamallapuram&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #255 grindavik from http://api.openweathermap.org/data/2.5/weather?q=grindavik&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #256 roebourne from http://api.openweathermap.org/data/2.5/weather?q=roebourne&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #257 paamiut from http://api.openweathermap.org/data/2.5/weather?q=paamiut&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #259 east london from http://api.openweathermap.org/data/2.5/weather?q=east london&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #260 airai from http://api.openweathermap.org/data/2.5/weather?q=airai&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #261 pidhorodna from http://api.openweathermap.org/data/2.5/weather?q=pidhorodna&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #262 mayo from http://api.openweathermap.org/data/2.5/weather?q=mayo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #263 isla mujeres from http://api.openweathermap.org/data/2.5/weather?q=isla mujeres&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #264 wukari from http://api.openweathermap.org/data/2.5/weather?q=wukari&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #265 jining from http://api.openweathermap.org/data/2.5/weather?q=jining&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #266 corinto from http://api.openweathermap.org/data/2.5/weather?q=corinto&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #268 pacific grove from http://api.openweathermap.org/data/2.5/weather?q=pacific grove&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #269 abha from http://api.openweathermap.org/data/2.5/weather?q=abha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #270 camocim from http://api.openweathermap.org/data/2.5/weather?q=camocim&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #271 belmonte from http://api.openweathermap.org/data/2.5/weather?q=belmonte&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #273 cabo san lucas from http://api.openweathermap.org/data/2.5/weather?q=cabo san lucas&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #274 annau from http://api.openweathermap.org/data/2.5/weather?q=annau&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #275 pindiga from http://api.openweathermap.org/data/2.5/weather?q=pindiga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #276 baker city from http://api.openweathermap.org/data/2.5/weather?q=baker city&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #277 pierre from http://api.openweathermap.org/data/2.5/weather?q=pierre&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #278 westport from http://api.openweathermap.org/data/2.5/weather?q=westport&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #279 daru from http://api.openweathermap.org/data/2.5/weather?q=daru&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #280 sungaipenuh from http://api.openweathermap.org/data/2.5/weather?q=sungaipenuh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #281 taoudenni from http://api.openweathermap.org/data/2.5/weather?q=taoudenni&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #282 kota kinabalu from http://api.openweathermap.org/data/2.5/weather?q=kota kinabalu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #283 progreso from http://api.openweathermap.org/data/2.5/weather?q=progreso&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #284 norsup from http://api.openweathermap.org/data/2.5/weather?q=norsup&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #285 liverpool from http://api.openweathermap.org/data/2.5/weather?q=liverpool&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #286 mangai from http://api.openweathermap.org/data/2.5/weather?q=mangai&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #287 tiarei from http://api.openweathermap.org/data/2.5/weather?q=tiarei&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #288 montepuez from http://api.openweathermap.org/data/2.5/weather?q=montepuez&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #289 tarsus from http://api.openweathermap.org/data/2.5/weather?q=tarsus&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #290 itoman from http://api.openweathermap.org/data/2.5/weather?q=itoman&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #291 luwuk from http://api.openweathermap.org/data/2.5/weather?q=luwuk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #292 sinnamary from http://api.openweathermap.org/data/2.5/weather?q=sinnamary&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #293 langham from http://api.openweathermap.org/data/2.5/weather?q=langham&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #295 bandarbeyla from http://api.openweathermap.org/data/2.5/weather?q=bandarbeyla&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #296 zaykovo from http://api.openweathermap.org/data/2.5/weather?q=zaykovo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #298 bubaque from http://api.openweathermap.org/data/2.5/weather?q=bubaque&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #299 kruisfontein from http://api.openweathermap.org/data/2.5/weather?q=kruisfontein&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #300 uturoa from http://api.openweathermap.org/data/2.5/weather?q=uturoa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #301 sorland from http://api.openweathermap.org/data/2.5/weather?q=sorland&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #303 pangody from http://api.openweathermap.org/data/2.5/weather?q=pangody&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #304 beloha from http://api.openweathermap.org/data/2.5/weather?q=beloha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #305 honiara from http://api.openweathermap.org/data/2.5/weather?q=honiara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #307 hamilton from http://api.openweathermap.org/data/2.5/weather?q=hamilton&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #308 rio muerto from http://api.openweathermap.org/data/2.5/weather?q=rio muerto&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #309 dakar from http://api.openweathermap.org/data/2.5/weather?q=dakar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #310 alofi from http://api.openweathermap.org/data/2.5/weather?q=alofi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #311 pudozh from http://api.openweathermap.org/data/2.5/weather?q=pudozh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #313 prince rupert from http://api.openweathermap.org/data/2.5/weather?q=prince rupert&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #314 kalmunai from http://api.openweathermap.org/data/2.5/weather?q=kalmunai&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #316 chapais from http://api.openweathermap.org/data/2.5/weather?q=chapais&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #317 dromolaxia from http://api.openweathermap.org/data/2.5/weather?q=dromolaxia&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #318 kaitangata from http://api.openweathermap.org/data/2.5/weather?q=kaitangata&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #319 marsh harbour from http://api.openweathermap.org/data/2.5/weather?q=marsh harbour&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #320 puerto del rosario from http://api.openweathermap.org/data/2.5/weather?q=puerto del rosario&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #321 poronaysk from http://api.openweathermap.org/data/2.5/weather?q=poronaysk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #322 buzmeyin from http://api.openweathermap.org/data/2.5/weather?q=buzmeyin&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #323 pasaco from http://api.openweathermap.org/data/2.5/weather?q=pasaco&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #324 lubango from http://api.openweathermap.org/data/2.5/weather?q=lubango&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #325 kavaratti from http://api.openweathermap.org/data/2.5/weather?q=kavaratti&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #326 yulara from http://api.openweathermap.org/data/2.5/weather?q=yulara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #327 isangel from http://api.openweathermap.org/data/2.5/weather?q=isangel&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #328 boddam from http://api.openweathermap.org/data/2.5/weather?q=boddam&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #329 haines junction from http://api.openweathermap.org/data/2.5/weather?q=haines junction&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #330 vestmannaeyjar from http://api.openweathermap.org/data/2.5/weather?q=vestmannaeyjar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #331 sedro-woolley from http://api.openweathermap.org/data/2.5/weather?q=sedro-woolley&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #332 siocon from http://api.openweathermap.org/data/2.5/weather?q=siocon&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #333 moyobamba from http://api.openweathermap.org/data/2.5/weather?q=moyobamba&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #335 lavrentiya from http://api.openweathermap.org/data/2.5/weather?q=lavrentiya&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #336 chinchani from http://api.openweathermap.org/data/2.5/weather?q=chinchani&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #338 terrace from http://api.openweathermap.org/data/2.5/weather?q=terrace&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #339 ola from http://api.openweathermap.org/data/2.5/weather?q=ola&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #340 redcliffe from http://api.openweathermap.org/data/2.5/weather?q=redcliffe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #342 partenit from http://api.openweathermap.org/data/2.5/weather?q=partenit&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #343 qasigiannguit from http://api.openweathermap.org/data/2.5/weather?q=qasigiannguit&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #344 omboue from http://api.openweathermap.org/data/2.5/weather?q=omboue&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #345 dunedin from http://api.openweathermap.org/data/2.5/weather?q=dunedin&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #346 grahamstown from http://api.openweathermap.org/data/2.5/weather?q=grahamstown&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #347 dwarka from http://api.openweathermap.org/data/2.5/weather?q=dwarka&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #350 kuroiso from http://api.openweathermap.org/data/2.5/weather?q=kuroiso&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #351 humberto de campos from http://api.openweathermap.org/data/2.5/weather?q=humberto de campos&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #352 havelock from http://api.openweathermap.org/data/2.5/weather?q=havelock&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #353 makakilo city from http://api.openweathermap.org/data/2.5/weather?q=makakilo city&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #354 berlevag from http://api.openweathermap.org/data/2.5/weather?q=berlevag&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #355 itarema from http://api.openweathermap.org/data/2.5/weather?q=itarema&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #356 kimbe from http://api.openweathermap.org/data/2.5/weather?q=kimbe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #357 bendigo from http://api.openweathermap.org/data/2.5/weather?q=bendigo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #358 saint-augustin from http://api.openweathermap.org/data/2.5/weather?q=saint-augustin&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #360 andros town from http://api.openweathermap.org/data/2.5/weather?q=andros town&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #361 qaqortoq from http://api.openweathermap.org/data/2.5/weather?q=qaqortoq&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #362 straumen from http://api.openweathermap.org/data/2.5/weather?q=straumen&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #363 pemberton from http://api.openweathermap.org/data/2.5/weather?q=pemberton&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #364 waipawa from http://api.openweathermap.org/data/2.5/weather?q=waipawa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #365 mazara del vallo from http://api.openweathermap.org/data/2.5/weather?q=mazara del vallo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #366 perumpavur from http://api.openweathermap.org/data/2.5/weather?q=perumpavur&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #367 ambilobe from http://api.openweathermap.org/data/2.5/weather?q=ambilobe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #368 yarmouth from http://api.openweathermap.org/data/2.5/weather?q=yarmouth&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #369 kiruna from http://api.openweathermap.org/data/2.5/weather?q=kiruna&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #370 san matias from http://api.openweathermap.org/data/2.5/weather?q=san matias&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #371 esperance from http://api.openweathermap.org/data/2.5/weather?q=esperance&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #372 okhotsk from http://api.openweathermap.org/data/2.5/weather?q=okhotsk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #373 roald from http://api.openweathermap.org/data/2.5/weather?q=roald&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #374 ust-uda from http://api.openweathermap.org/data/2.5/weather?q=ust-uda&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #375 tautira from http://api.openweathermap.org/data/2.5/weather?q=tautira&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #377 nome from http://api.openweathermap.org/data/2.5/weather?q=nome&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #378 sakaraha from http://api.openweathermap.org/data/2.5/weather?q=sakaraha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #380 yelan from http://api.openweathermap.org/data/2.5/weather?q=yelan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #381 utica from http://api.openweathermap.org/data/2.5/weather?q=utica&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #382 hami from http://api.openweathermap.org/data/2.5/weather?q=hami&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #383 vardo from http://api.openweathermap.org/data/2.5/weather?q=vardo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #384 grand forks from http://api.openweathermap.org/data/2.5/weather?q=grand forks&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #385 san cristobal from http://api.openweathermap.org/data/2.5/weather?q=san cristobal&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #386 hoa binh from http://api.openweathermap.org/data/2.5/weather?q=hoa binh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #387 ballina from http://api.openweathermap.org/data/2.5/weather?q=ballina&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #388 kawalu from http://api.openweathermap.org/data/2.5/weather?q=kawalu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #389 amla from http://api.openweathermap.org/data/2.5/weather?q=amla&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #390 pitimbu from http://api.openweathermap.org/data/2.5/weather?q=pitimbu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #391 olawa from http://api.openweathermap.org/data/2.5/weather?q=olawa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #392 yelizovo from http://api.openweathermap.org/data/2.5/weather?q=yelizovo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #393 lixourion from http://api.openweathermap.org/data/2.5/weather?q=lixourion&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #394 ahipara from http://api.openweathermap.org/data/2.5/weather?q=ahipara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #395 mayor pablo lagerenza from http://api.openweathermap.org/data/2.5/weather?q=mayor pablo lagerenza&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #396 garowe from http://api.openweathermap.org/data/2.5/weather?q=garowe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #397 mbala from http://api.openweathermap.org/data/2.5/weather?q=mbala&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #398 mandalgovi from http://api.openweathermap.org/data/2.5/weather?q=mandalgovi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #399 russell from http://api.openweathermap.org/data/2.5/weather?q=russell&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #400 miles city from http://api.openweathermap.org/data/2.5/weather?q=miles city&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #401 sur from http://api.openweathermap.org/data/2.5/weather?q=sur&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #402 nioro from http://api.openweathermap.org/data/2.5/weather?q=nioro&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #403 khandyga from http://api.openweathermap.org/data/2.5/weather?q=khandyga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #404 anadyr from http://api.openweathermap.org/data/2.5/weather?q=anadyr&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #405 vanderhoof from http://api.openweathermap.org/data/2.5/weather?q=vanderhoof&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #406 cap malheureux from http://api.openweathermap.org/data/2.5/weather?q=cap malheureux&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #407 carballo from http://api.openweathermap.org/data/2.5/weather?q=carballo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #408 namibe from http://api.openweathermap.org/data/2.5/weather?q=namibe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #409 rio gallegos from http://api.openweathermap.org/data/2.5/weather?q=rio gallegos&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #410 samarai from http://api.openweathermap.org/data/2.5/weather?q=samarai&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #411 kodiak from http://api.openweathermap.org/data/2.5/weather?q=kodiak&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #412 araouane from http://api.openweathermap.org/data/2.5/weather?q=araouane&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #414 shimoda from http://api.openweathermap.org/data/2.5/weather?q=shimoda&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #415 pictou from http://api.openweathermap.org/data/2.5/weather?q=pictou&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #416 tuatapere from http://api.openweathermap.org/data/2.5/weather?q=tuatapere&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #417 zdvinsk from http://api.openweathermap.org/data/2.5/weather?q=zdvinsk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #418 oda from http://api.openweathermap.org/data/2.5/weather?q=oda&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #419 kavarskas from http://api.openweathermap.org/data/2.5/weather?q=kavarskas&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #420 monrovia from http://api.openweathermap.org/data/2.5/weather?q=monrovia&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #421 kanniyakumari from http://api.openweathermap.org/data/2.5/weather?q=kanniyakumari&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #422 yar-sale from http://api.openweathermap.org/data/2.5/weather?q=yar-sale&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #423 bouar from http://api.openweathermap.org/data/2.5/weather?q=bouar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #424 barkhan from http://api.openweathermap.org/data/2.5/weather?q=barkhan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #425 baykit from http://api.openweathermap.org/data/2.5/weather?q=baykit&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #426 goalpara from http://api.openweathermap.org/data/2.5/weather?q=goalpara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #428 fairbanks from http://api.openweathermap.org/data/2.5/weather?q=fairbanks&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #429 troitskoye from http://api.openweathermap.org/data/2.5/weather?q=troitskoye&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #430 pouembout from http://api.openweathermap.org/data/2.5/weather?q=pouembout&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #431 challapata from http://api.openweathermap.org/data/2.5/weather?q=challapata&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #432 port moresby from http://api.openweathermap.org/data/2.5/weather?q=port moresby&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #433 morgan city from http://api.openweathermap.org/data/2.5/weather?q=morgan city&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #434 ondjiva from http://api.openweathermap.org/data/2.5/weather?q=ondjiva&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #435 port lincoln from http://api.openweathermap.org/data/2.5/weather?q=port lincoln&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #436 visby from http://api.openweathermap.org/data/2.5/weather?q=visby&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #437 neiafu from http://api.openweathermap.org/data/2.5/weather?q=neiafu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #438 solnechnyy from http://api.openweathermap.org/data/2.5/weather?q=solnechnyy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #439 iaciara from http://api.openweathermap.org/data/2.5/weather?q=iaciara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #440 ikalamavony from http://api.openweathermap.org/data/2.5/weather?q=ikalamavony&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #441 yatou from http://api.openweathermap.org/data/2.5/weather?q=yatou&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #442 aonla from http://api.openweathermap.org/data/2.5/weather?q=aonla&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #443 paso de los toros from http://api.openweathermap.org/data/2.5/weather?q=paso de los toros&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #444 dubbo from http://api.openweathermap.org/data/2.5/weather?q=dubbo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #445 teya from http://api.openweathermap.org/data/2.5/weather?q=teya&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #447 finschhafen from http://api.openweathermap.org/data/2.5/weather?q=finschhafen&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #448 owosso from http://api.openweathermap.org/data/2.5/weather?q=owosso&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #450 mahmudabad from http://api.openweathermap.org/data/2.5/weather?q=mahmudabad&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #451 pangkalanbuun from http://api.openweathermap.org/data/2.5/weather?q=pangkalanbuun&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #452 goderich from http://api.openweathermap.org/data/2.5/weather?q=goderich&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #453 vanavara from http://api.openweathermap.org/data/2.5/weather?q=vanavara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #454 ichnya from http://api.openweathermap.org/data/2.5/weather?q=ichnya&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #456 la ronge from http://api.openweathermap.org/data/2.5/weather?q=la ronge&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #457 rach gia from http://api.openweathermap.org/data/2.5/weather?q=rach gia&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #458 bowen from http://api.openweathermap.org/data/2.5/weather?q=bowen&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #459 kieta from http://api.openweathermap.org/data/2.5/weather?q=kieta&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #461 sept-iles from http://api.openweathermap.org/data/2.5/weather?q=sept-iles&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #462 tandil from http://api.openweathermap.org/data/2.5/weather?q=tandil&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #463 dingle from http://api.openweathermap.org/data/2.5/weather?q=dingle&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #464 bereda from http://api.openweathermap.org/data/2.5/weather?q=bereda&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #465 bannu from http://api.openweathermap.org/data/2.5/weather?q=bannu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #466 kalabo from http://api.openweathermap.org/data/2.5/weather?q=kalabo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #467 atherton from http://api.openweathermap.org/data/2.5/weather?q=atherton&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #469 ler from http://api.openweathermap.org/data/2.5/weather?q=ler&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #470 taltal from http://api.openweathermap.org/data/2.5/weather?q=taltal&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #471 marzuq from http://api.openweathermap.org/data/2.5/weather?q=marzuq&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #472 hobyo from http://api.openweathermap.org/data/2.5/weather?q=hobyo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #473 bahia blanca from http://api.openweathermap.org/data/2.5/weather?q=bahia blanca&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #474 bin qirdan from http://api.openweathermap.org/data/2.5/weather?q=bin qirdan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #475 constitucion from http://api.openweathermap.org/data/2.5/weather?q=constitucion&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #476 sibolga from http://api.openweathermap.org/data/2.5/weather?q=sibolga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #477 wagar from http://api.openweathermap.org/data/2.5/weather?q=wagar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #478 tayshet from http://api.openweathermap.org/data/2.5/weather?q=tayshet&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #479 ballybofey from http://api.openweathermap.org/data/2.5/weather?q=ballybofey&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #480 natal from http://api.openweathermap.org/data/2.5/weather?q=natal&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #481 takanabe from http://api.openweathermap.org/data/2.5/weather?q=takanabe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #484 sheridan from http://api.openweathermap.org/data/2.5/weather?q=sheridan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #485 gornyy from http://api.openweathermap.org/data/2.5/weather?q=gornyy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #486 gamba from http://api.openweathermap.org/data/2.5/weather?q=gamba&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #487 karratha from http://api.openweathermap.org/data/2.5/weather?q=karratha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #489 alghero from http://api.openweathermap.org/data/2.5/weather?q=alghero&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #490 ampanihy from http://api.openweathermap.org/data/2.5/weather?q=ampanihy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #491 praia da vitoria from http://api.openweathermap.org/data/2.5/weather?q=praia da vitoria&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #492 hauterive from http://api.openweathermap.org/data/2.5/weather?q=hauterive&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #493 viseu from http://api.openweathermap.org/data/2.5/weather?q=viseu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #494 barcelona from http://api.openweathermap.org/data/2.5/weather?q=barcelona&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #495 shakhtinsk from http://api.openweathermap.org/data/2.5/weather?q=shakhtinsk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #496 yaan from http://api.openweathermap.org/data/2.5/weather?q=yaan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #497 ughelli from http://api.openweathermap.org/data/2.5/weather?q=ughelli&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #498 tabuk from http://api.openweathermap.org/data/2.5/weather?q=tabuk&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #499 adeje from http://api.openweathermap.org/data/2.5/weather?q=adeje&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #500 nizhniy kuranakh from http://api.openweathermap.org/data/2.5/weather?q=nizhniy kuranakh&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #501 muravlenko from http://api.openweathermap.org/data/2.5/weather?q=muravlenko&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #502 tindwari from http://api.openweathermap.org/data/2.5/weather?q=tindwari&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #503 narsaq from http://api.openweathermap.org/data/2.5/weather?q=narsaq&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #504 baherden from http://api.openweathermap.org/data/2.5/weather?q=baherden&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #505 ibra from http://api.openweathermap.org/data/2.5/weather?q=ibra&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #506 kadhan from http://api.openweathermap.org/data/2.5/weather?q=kadhan&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #507 garissa from http://api.openweathermap.org/data/2.5/weather?q=garissa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #508 druskininkai from http://api.openweathermap.org/data/2.5/weather?q=druskininkai&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #509 wenzhou from http://api.openweathermap.org/data/2.5/weather?q=wenzhou&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #510 bartoszyce from http://api.openweathermap.org/data/2.5/weather?q=bartoszyce&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #511 shirokiy from http://api.openweathermap.org/data/2.5/weather?q=shirokiy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #512 takoradi from http://api.openweathermap.org/data/2.5/weather?q=takoradi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #513 paramonga from http://api.openweathermap.org/data/2.5/weather?q=paramonga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #514 mount isa from http://api.openweathermap.org/data/2.5/weather?q=mount isa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #515 sahuaripa from http://api.openweathermap.org/data/2.5/weather?q=sahuaripa&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #517 nouakchott from http://api.openweathermap.org/data/2.5/weather?q=nouakchott&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #518 barentu from http://api.openweathermap.org/data/2.5/weather?q=barentu&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #519 san carlos de bariloche from http://api.openweathermap.org/data/2.5/weather?q=san carlos de bariloche&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #520 ormara from http://api.openweathermap.org/data/2.5/weather?q=ormara&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #521 santiago de cao from http://api.openweathermap.org/data/2.5/weather?q=santiago de cao&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #522 nacala from http://api.openweathermap.org/data/2.5/weather?q=nacala&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #523 kirksville from http://api.openweathermap.org/data/2.5/weather?q=kirksville&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #524 antalaha from http://api.openweathermap.org/data/2.5/weather?q=antalaha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #525 fort nelson from http://api.openweathermap.org/data/2.5/weather?q=fort nelson&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #526 naron from http://api.openweathermap.org/data/2.5/weather?q=naron&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #527 fayaoue from http://api.openweathermap.org/data/2.5/weather?q=fayaoue&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #528 sitka from http://api.openweathermap.org/data/2.5/weather?q=sitka&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #529 wajima from http://api.openweathermap.org/data/2.5/weather?q=wajima&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #530 saint-francois from http://api.openweathermap.org/data/2.5/weather?q=saint-francois&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #531 coolum beach from http://api.openweathermap.org/data/2.5/weather?q=coolum beach&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #532 kijang from http://api.openweathermap.org/data/2.5/weather?q=kijang&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #533 acajutla from http://api.openweathermap.org/data/2.5/weather?q=acajutla&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #534 yeppoon from http://api.openweathermap.org/data/2.5/weather?q=yeppoon&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #535 bitburg from http://api.openweathermap.org/data/2.5/weather?q=bitburg&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #536 slobodskoy from http://api.openweathermap.org/data/2.5/weather?q=slobodskoy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #537 necochea from http://api.openweathermap.org/data/2.5/weather?q=necochea&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #538 scarborough from http://api.openweathermap.org/data/2.5/weather?q=scarborough&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #539 santa fe from http://api.openweathermap.org/data/2.5/weather?q=santa fe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #540 lithgow from http://api.openweathermap.org/data/2.5/weather?q=lithgow&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #541 monteprandone from http://api.openweathermap.org/data/2.5/weather?q=monteprandone&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #542 kiunga from http://api.openweathermap.org/data/2.5/weather?q=kiunga&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #543 miramar from http://api.openweathermap.org/data/2.5/weather?q=miramar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #544 port macquarie from http://api.openweathermap.org/data/2.5/weather?q=port macquarie&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #545 warmbad from http://api.openweathermap.org/data/2.5/weather?q=warmbad&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #546 tutoia from http://api.openweathermap.org/data/2.5/weather?q=tutoia&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #547 the valley from http://api.openweathermap.org/data/2.5/weather?q=the valley&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #548 sihora from http://api.openweathermap.org/data/2.5/weather?q=sihora&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #549 plettenberg bay from http://api.openweathermap.org/data/2.5/weather?q=plettenberg bay&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #550 la romana from http://api.openweathermap.org/data/2.5/weather?q=la romana&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #551 hit from http://api.openweathermap.org/data/2.5/weather?q=hit&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #552 lorengau from http://api.openweathermap.org/data/2.5/weather?q=lorengau&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #553 chiriqui from http://api.openweathermap.org/data/2.5/weather?q=chiriqui&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #554 granadilla de abona from http://api.openweathermap.org/data/2.5/weather?q=granadilla de abona&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #555 leningradskiy from http://api.openweathermap.org/data/2.5/weather?q=leningradskiy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #556 zyryanka from http://api.openweathermap.org/data/2.5/weather?q=zyryanka&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #557 komsomolskiy from http://api.openweathermap.org/data/2.5/weather?q=komsomolskiy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #558 pasighat from http://api.openweathermap.org/data/2.5/weather?q=pasighat&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #559 vendas novas from http://api.openweathermap.org/data/2.5/weather?q=vendas novas&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #560 kabalo from http://api.openweathermap.org/data/2.5/weather?q=kabalo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #561 matale from http://api.openweathermap.org/data/2.5/weather?q=matale&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #562 mlonggo from http://api.openweathermap.org/data/2.5/weather?q=mlonggo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #563 mungeli from http://api.openweathermap.org/data/2.5/weather?q=mungeli&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #564 opuwo from http://api.openweathermap.org/data/2.5/weather?q=opuwo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #565 wuning from http://api.openweathermap.org/data/2.5/weather?q=wuning&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #566 kautokeino from http://api.openweathermap.org/data/2.5/weather?q=kautokeino&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #567 dandong from http://api.openweathermap.org/data/2.5/weather?q=dandong&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #568 athens from http://api.openweathermap.org/data/2.5/weather?q=athens&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #569 bilibino from http://api.openweathermap.org/data/2.5/weather?q=bilibino&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #570 upington from http://api.openweathermap.org/data/2.5/weather?q=upington&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #571 batagay from http://api.openweathermap.org/data/2.5/weather?q=batagay&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #572 kandi from http://api.openweathermap.org/data/2.5/weather?q=kandi&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #573 sovetskiy from http://api.openweathermap.org/data/2.5/weather?q=sovetskiy&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #574 caravelas from http://api.openweathermap.org/data/2.5/weather?q=caravelas&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #575 cabedelo from http://api.openweathermap.org/data/2.5/weather?q=cabedelo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #576 okha from http://api.openweathermap.org/data/2.5/weather?q=okha&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #577 san policarpo from http://api.openweathermap.org/data/2.5/weather?q=san policarpo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #578 nassjo from http://api.openweathermap.org/data/2.5/weather?q=nassjo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #579 clyde river from http://api.openweathermap.org/data/2.5/weather?q=clyde river&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #580 barcelos from http://api.openweathermap.org/data/2.5/weather?q=barcelos&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #581 podor from http://api.openweathermap.org/data/2.5/weather?q=podor&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #582 richards bay from http://api.openweathermap.org/data/2.5/weather?q=richards bay&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #583 udon thani from http://api.openweathermap.org/data/2.5/weather?q=udon thani&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #584 brekstad from http://api.openweathermap.org/data/2.5/weather?q=brekstad&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #585 pericos from http://api.openweathermap.org/data/2.5/weather?q=pericos&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #586 kuching from http://api.openweathermap.org/data/2.5/weather?q=kuching&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #587 umtata from http://api.openweathermap.org/data/2.5/weather?q=umtata&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #588 pemba from http://api.openweathermap.org/data/2.5/weather?q=pemba&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #589 nabire from http://api.openweathermap.org/data/2.5/weather?q=nabire&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #590 bani walid from http://api.openweathermap.org/data/2.5/weather?q=bani walid&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #591 fort dodge from http://api.openweathermap.org/data/2.5/weather?q=fort dodge&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #592 suba from http://api.openweathermap.org/data/2.5/weather?q=suba&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #593 abnub from http://api.openweathermap.org/data/2.5/weather?q=abnub&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #594 dawlatabad from http://api.openweathermap.org/data/2.5/weather?q=dawlatabad&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #596 newton abbot from http://api.openweathermap.org/data/2.5/weather?q=newton abbot&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #597 dryden from http://api.openweathermap.org/data/2.5/weather?q=dryden&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #598 uyuni from http://api.openweathermap.org/data/2.5/weather?q=uyuni&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #599 alihe from http://api.openweathermap.org/data/2.5/weather?q=alihe&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #600 belyy yar from http://api.openweathermap.org/data/2.5/weather?q=belyy yar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #601 sembakung from http://api.openweathermap.org/data/2.5/weather?q=sembakung&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #602 bayir from http://api.openweathermap.org/data/2.5/weather?q=bayir&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #604 copiapo from http://api.openweathermap.org/data/2.5/weather?q=copiapo&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #605 lebedyn from http://api.openweathermap.org/data/2.5/weather?q=lebedyn&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #607 liaozhong from http://api.openweathermap.org/data/2.5/weather?q=liaozhong&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #608 tiznit from http://api.openweathermap.org/data/2.5/weather?q=tiznit&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #609 vao from http://api.openweathermap.org/data/2.5/weather?q=vao&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #610 manggar from http://api.openweathermap.org/data/2.5/weather?q=manggar&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
+ data gathered for city #611 broome from http://api.openweathermap.org/data/2.5/weather?q=broome&appid=880045f7d8ffa29a81409cfca0336f8d&units=imperial 
